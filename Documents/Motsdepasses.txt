@@ -1,2 +1,9 @@
 WinSrvGroupe: Administrateur - Exia2016
 WinSrvTelecom: Administrateur - Exia2016
+
+FAN root :: gouybes
+
+WindowsServerAD : Administrateur :: Gouybes2016
+
+ADLinux : root :: Gouybes
+	  gouybes :: gouybes
