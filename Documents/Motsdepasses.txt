@@ -1,4 +1,5 @@
-WinSrvGroupe: Administrateur - Exia2016
+WinSrvGroup: Administrateur - Exia2016
+		Skeln - root
 WinSrvTelecom: Administrateur - Exia2016
 
 FAN root :: gouybes
@@ -7,3 +8,10 @@ WindowsServerAD : Administrateur :: Gouybes2016
 
 ADLinux : root :: Gouybes
 	  gouybes :: gouybes
+
+AD WinSrvGroup: gouybues-group.local
+	Mdp restauration: Exia2016
+
+Utilisateur: PClientT1 - NClientT1 - Exia2016 - UID: clientt1@gouybues-telecom.local
+		PClientG1 - NClientG1 - Exia2016 - UID: clientg1@gouybues-group.local
+Domaines: TELECOM / GROUP -> GROUP\Administrateur (WIN10) et Administrateur (WIN7)
