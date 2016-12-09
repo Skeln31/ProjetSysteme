@@ -15,3 +15,18 @@ AD WinSrvGroup: gouybues-group.local
 Utilisateur: PClientT1 - NClientT1 - Exia2016 - UID: clientt1@gouybues-telecom.local
 		PClientG1 - NClientG1 - Exia2016 - UID: clientg1@gouybues-group.local
 Domaines: TELECOM / GROUP -> GROUP\Administrateur (WIN10) et Administrateur (WIN7)
+
+Mot de passe de tous les comptes utilisateurs: Exia2016
+Comptes groupe:
+	martin.gouybues -> Direction
+	julie.bertali -> Dir Metiers
+	pedro.aubergier -> Dir Comm
+	philippe.marie -> Dir Admin Financier
+	denis.vinitost -> Dir RH
+
+Comptes Telecom:
+	olivier.rousseaux -> Direction
+	lionel.gabru -> Service technique
+	luc.dupre -> Service commercial
+	olivia.gabriel -> Service Admin Financier
+	bastien.pal -> Service RH
